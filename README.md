@@ -1,2 +1,2 @@
 # Design-Patterns-In-Unity
-The example of design patterns in unity.
+The examples of design patterns in unity.
