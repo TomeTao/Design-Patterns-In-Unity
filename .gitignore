@@ -3,6 +3,9 @@ Design Patterns in Unity/Library/*
 Design Patterns in Unity/Temp/*
 Design Patterns in Unity/Logs/*
 Design Patterns in Unity/UserSettings/*
+Design Patterns in Unity/.vs/*
+Design Patterns in Unity/obj/*
 
 Design Patterns in Unity/Design Patterns in Unity.sln
 Design Patterns in Unity/.vsconfig
+Design Patterns in Unity/Assembly-CSharp.csproj
